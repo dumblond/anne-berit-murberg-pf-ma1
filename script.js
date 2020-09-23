@@ -2,7 +2,7 @@
 
 var firstVar;
 
-// guestion 2
+// question 2
 
 var name ="Anne-Berit";
 
